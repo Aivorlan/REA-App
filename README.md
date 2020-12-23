@@ -32,6 +32,10 @@ Going to the URL ending in `/login` and `/members` will take you to the page tha
 * express
 * sequelize
 * mysql
+
+# Google link to walkthrough
+<a href=''>Click Here</a>
+
 ## Questions 
 <br>
 <img src='https://avatars3.githubusercontent.com/u/65247434?v=4' height='200px' alt='github avatar'>
