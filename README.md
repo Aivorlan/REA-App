@@ -16,8 +16,16 @@ THEN I understand the codebase
 
 # How It Works 
 This app allows the user to log in and out. It also allows the user to sign up. 
-## Routes
-The main page URL is `"/"`.
-Going to the URL ending in `/login` and `/members` will take you to the page that checks if you have an existing account. If you have an existing account you will be taken to the `/members` page. If you are not authenticated when you go to the main page URL ending in `"/"` this app will display the Sign Up Form page (`/public/signup.html`). When you see the form you must enter an email address and password to sign up. If this field is left empty an error will be shown. 
+# Routes
+
+## Main page 
+* The main page URL is `"/"`.
+Going to the URL ending in `/login` and `/members` will take you to the page that checks if you have an existing account. If you have an existing account you will be taken to the `/members` page.
+
+## Sign-Up form page 
+* If you are not authenticated when you go to the main page URL ending in `"/"` this app will display the Sign Up Form page (`/public/signup.html`). When you see the form you must enter an email address and password to sign up. If this field is left empty an error will be displayed. 
+ 
+ ## Login page 
+ * On the Sign Up Form there is an 'Or log in here' link that routes you to the URL ending in  `/login` where the user is presented with the Login Form. You must enter the email address and password to log in. A "Welcome ${yourEmailAddress}" will be shown once you are authenticated.  
 ## B)
 ## C)
