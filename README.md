@@ -17,7 +17,7 @@ THEN I understand the codebase
 # How It Works 
 This app allows the user to log in and out. It also allows the user to sign up. 
 ## Routes
-'/' is the main page.
-'/login' and '/members' will take you to the page that checks if you have an existing account. If you have an existing account you will be taken to the '/members' page. 
+`/` is the main page.
+`/login` and `/members` will take you to the page that checks if you have an existing account. If you have an existing account you will be taken to the `/members` page. 
 ## B)
 ## C)
