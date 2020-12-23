@@ -34,7 +34,7 @@ Going to the URL ending in `/login` and `/members` will take you to the page tha
 * mysql
 
 # Google link to walkthrough
-<a href=''>Click Here</a>
+<a href='https://docs.google.com/document/d/1JVHDP0GWu2OgNbDaFlpXXKzmoYC_iefy3TtH4Hnpt7E/edit?usp=sharing'>Click Here</a>
 
 ## Questions 
 <br>
